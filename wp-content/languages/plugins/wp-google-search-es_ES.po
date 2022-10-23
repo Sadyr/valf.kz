@@ -1,0 +1,157 @@
+# Translation of Plugins - WP Google Search - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Google Search - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-26 09:32:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Google Search - Stable (latest release)\n"
+
+#: wgs-admin-page.php:317
+msgid "Would you like to offer some related products to your blog posts? Do you have an event calendar plugin, and want to suggest some programs connected to an article? Do you have a custom movie catalog plugin and want to associate some articles to your movies?"
+msgstr "¿Te gustaría ofrecer algunos productos relacionados con las entradas de tu blog? ¿Tienes un plugin de calendario de eventos y quieres sugerir algunos programas conectados con un artículo? ¿Tienes un plugin de catálogo de películas personalizado y quieres asociar algunos artículos a tus películas?"
+
+#: wgs-admin-page.php:316
+msgid "WP Related Items plugin makes visible every kind of hidden connections of your WordPress site for your business."
+msgstr "El plugin WP Related Items hace visible cualquier tipo de conexiones ocultas de tu sitio WordPress para tu negocio."
+
+#: wgs-admin-page.php:309
+msgid "Try out WP Related Items plugin"
+msgstr "Prueba el plugin WP Related Items"
+
+#: wgs-admin-page.php:281
+msgid "The plugin automatically generated a page for displaying search results. You can see here the URL of this page. Please do not delete this page and do not change the permalink of it!"
+msgstr "El plugin ha generado automáticamente una página para mostrar los resultados de la búsqueda. Puedes ver aquí la URL de esta página. Por favor, ¡no borres esta página y no cambies su enlace permanente!"
+
+#: wgs-admin-page.php:266
+msgid "Search Page Target URL"
+msgstr "URL de destino de la página de búsqueda"
+
+#: wgs-admin-page.php:259
+msgid "Switch it on to move down search button some pixels."
+msgstr "Actívalo para mover el botón de búsqueda hacia abajo algunos píxeles."
+
+#: wgs-admin-page.php:251
+msgid "Use default corrections CSS v3"
+msgstr "Usar las correcciones CSS por defecto de la versión 3"
+
+#: wgs-admin-page.php:244
+msgid "If this option is turned on, some css will be applied to improve the appearance of search elements. Styling of Google Search box is theme dependent because your theme settings have an effect on Google CSE styling too. It is possible that custom css settings are needed. Aks your site designer about it."
+msgstr "Si está activada esta opción, serán aplicados algunos CSS para mejorar la apariencia de los elementos de la búsqueda. El estilo del cuadro de búsqueda de Google depende del tema, ya que los ajustes de tu tema también tienen un efecto en el estilo del motor de búsqueda personalizado de Google. Es posible que se necesiten ajustes CSS personalizados. Pregunta sobre esto al diseñador de tu sitio."
+
+#: wgs-admin-page.php:236
+msgid "Use default corrections CSS v2"
+msgstr "Usar las correcciones CSS por defecto de la versión 2"
+
+#: wgs-admin-page.php:229
+msgid "DEPRECTED: If this option is turned on, some css will be applied to improve the appearance of search elements in case of most WordPress themes. This is an older css settings collection, please use the following CSS 2 setting instead of this."
+msgstr "OBSOLETO: Si está activada esta opción, serán aplicados algunos CSS para mejorar la apariencia de los elementos de la búsqueda en el caso de la mayoría de los temas para WordPress. Esta es una antigua colección de ajustes CSS. Por favor, usa el siguiente ajuste de CSS 2 en lugar de este."
+
+#: wgs-admin-page.php:221
+msgid "Use default corrections CSS v1"
+msgstr "Usar las correcciones CSS por defecto de la versión 1"
+
+#: wgs-admin-page.php:214
+msgid "If you set on Google CSE admin page that result set is displayed in Overlay mode, then also set this checkbox. </br>In this case search results will be displayed without loading a new search result page. </br>If you do not use overlay display mode in GCSE, then clear this checkbox, because result set can not be displayed correctly."
+msgstr "Si estableces en la página de administración del motor de búsqueda personalizado de Google que el conjunto de resultados se muestre en modo de superposición, entonces marca también esta casilla de verificación.</br>En este caso, los resultados de la búsqueda se mostrarán sin cargar una nueva página de resultados.</br>Si no usas el modo de visualización de superposición en el motor de búsqueda personalizado, entonces desmarca esta casilla de verificación, porque el conjunto de resultados no se puede mostrar correctamente."
+
+#: wgs-admin-page.php:199
+msgid "Display content of the links of the result set on new browser tab."
+msgstr "Muestra el contenido de los enlaces del conjunto de resultados en una nueva pestaña del navegador."
+
+#: wgs-admin-page.php:183
+msgid "If this option is turned on, the search field will appear above the search results."
+msgstr "Si está activada esta opción, el campo de búsqueda aparecerá encima de los resultados de la búsqueda."
+
+#: wgs-admin-page.php:168
+msgid "Enter this Google Search Engine ID here."
+msgstr "Introduce aquí este ID del motor de búsqueda de Google."
+
+#: wgs-admin-page.php:167
+msgid "You will get a Google Search Engine ID like this: 012345678901234567890:0ijk_a1bcde"
+msgstr "Obtendrás un ID del motor de búsqueda de Google como este: 012345678901234567890:0ijk_a1bcde"
+
+#: wgs-admin-page.php:166
+msgid "Register to Google Custom Search Engine and get your Google Search Engine ID here: "
+msgstr "Regístrate en el motor de búsqueda personalizado de Google y obtén aquí tu ID del motor de búsqueda de Google: "
+
+#: wgs-admin-page.php:139
+msgid "WP Google Search by WebshopLogic"
+msgstr "WP Google Search de WebshopLogic"
+
+#: wgs-admin-page.php:89
+msgid "Use default corrections CSS version3"
+msgstr "Usar las correcciones CSS por defecto de la versión 3"
+
+#: wgs-admin-page.php:81
+msgid "Use default corrections CSS version2"
+msgstr "Usar las correcciones CSS por defecto de la versión 3"
+
+#: wgs-admin-page.php:73
+msgid "Use default corrections CSS"
+msgstr "Usar las correcciones CSS por defecto"
+
+#: wgs-admin-page.php:65 wgs-admin-page.php:191
+msgid "Link Target Blank"
+msgstr "Enlace de destino en una nueva pestaña"
+
+#: wgs-admin-page.php:57 wgs-admin-page.php:206
+msgid "Support Overlay Display"
+msgstr "Compatibilidad con la visualización superpuesta"
+
+#: wgs-admin-page.php:49 wgs-admin-page.php:175
+msgid "Display search box before search results"
+msgstr "Mostrar la caja de búsqueda antes de los resultados de la búsqueda"
+
+#: wgs-admin-page.php:41 wgs-admin-page.php:159
+msgid "Google Search Engine ID"
+msgstr "ID del motor de búsqueda de Google"
+
+#: wgs-admin-page.php:32 wgs-admin-page.php:151
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: wgs-widget.php:83
+msgid "Title"
+msgstr "Título"
+
+#: wgs-widget.php:81
+msgid "Hide title"
+msgstr "Ocultar el título"
+
+#: wgs-widget.php:73
+msgid "Search"
+msgstr "Buscar"
+
+#: wgs-widget.php:7
+msgid "WP Google Search (WGS)"
+msgstr "WP Google Search (WGS)"
+
+#: wp-google-search.php:124 wp-google-search.php:128
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#. Author URI of the plugin
+msgid "http://webshoplogic.com/"
+msgstr "https://webshoplogic.com/"
+
+#. Author of the plugin
+msgid "WebshopLogic"
+msgstr "WebshopLogic"
+
+#. Description of the plugin
+msgid "This plugin gives a very simple way to add Google Search to your WordPress site."
+msgstr "Este plugin ofrece una forma muy sencilla de añadir la búsqueda de Google a tu sitio WordPress."
+
+#. Plugin URI of the plugin
+msgid "http://webshoplogic.com/wp-google-search/"
+msgstr "https://webshoplogic.com/wp-google-search/"
+
+#. Plugin Name of the plugin
+#: wgs-admin-page.php:13
+msgid "WP Google Search"
+msgstr "WP Google Search"

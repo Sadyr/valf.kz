@@ -1,0 +1,19 @@
+.shop-list {
+list-style: none;
+}
+.shop-list li {
+	border: 2px solid #CEE3E2;
+	font-size: 18px;
+	
+}
+.shop-list i {
+	color:red;
+	font-size: 20px;
+
+}
+
+.btns {
+  border: none; /* Remove borders */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}

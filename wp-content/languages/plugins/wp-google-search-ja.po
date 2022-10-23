@@ -1,0 +1,149 @@
+# Translation of Plugins - WP Google Search - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WP Google Search - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-12 05:13:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Google Search - Stable (latest release)\n"
+
+#: wgs-admin-page.php:317
+msgid "Would you like to offer some related products to your blog posts? Do you have an event calendar plugin, and want to suggest some programs connected to an article? Do you have a custom movie catalog plugin and want to associate some articles to your movies?"
+msgstr "ブログ投稿に関連する商品を提案したり、イベントカレンダーのプラグインから投稿に関連するプログラムを提案したり、カスタム動画カタログプラグインで映画に複数の投稿を関連付けたりできます。"
+
+#: wgs-admin-page.php:316
+msgid "WP Related Items plugin makes visible every kind of hidden connections of your WordPress site for your business."
+msgstr "WP Related Items プラグインは、WordPress サイトのあらゆる種類の非表示の連携をビジネス用に表示します。"
+
+#: wgs-admin-page.php:309
+msgid "Try out WP Related Items plugin"
+msgstr "WP Related Items (関連項目) プラグインを試す"
+
+#: wgs-admin-page.php:281
+msgid "The plugin automatically generated a page for displaying search results. You can see here the URL of this page. Please do not delete this page and do not change the permalink of it!"
+msgstr "プラグインは、検索結果を表示するためのページを自動的に生成しました。こちらのページの URL をご覧ください。このページを削除したり、パーマリンクを変更したりしないでください。"
+
+#: wgs-admin-page.php:266
+msgid "Search Page Target URL"
+msgstr "検索ページターゲット URL"
+
+#: wgs-admin-page.php:259
+msgid "Switch it on to move down search button some pixels."
+msgstr "検索ボタンを数ピクセル下に移動するにはオンに切り替えてください。"
+
+#: wgs-admin-page.php:251
+msgid "Use default corrections CSS v3"
+msgstr "CSS v3 のデフォルト修正を使う"
+
+#: wgs-admin-page.php:244
+msgid "If this option is turned on, some css will be applied to improve the appearance of search elements. Styling of Google Search box is theme dependent because your theme settings have an effect on Google CSE styling too. It is possible that custom css settings are needed. Aks your site designer about it."
+msgstr "このオプションをオンにすると、検索要素の外観を改善するためにいくつか CSS が適用されます。Google 検索ボックスのスタイリングは、テーマの設定が Google CSE のスタイリングにも影響するため、テーマに依存します。カスタム CSS の設定が必要になる可能性があります。サイトのデザイナーに相談してみてください。"
+
+#: wgs-admin-page.php:236
+msgid "Use default corrections CSS v2"
+msgstr "CSS v2 のデフォルト修正を使う"
+
+#: wgs-admin-page.php:221
+msgid "Use default corrections CSS v1"
+msgstr "CSS v1 のデフォルト修正を使う"
+
+#: wgs-admin-page.php:199
+msgid "Display content of the links of the result set on new browser tab."
+msgstr "結果セットのリンクコンテンツを新しいブラウザータブに表示します。"
+
+#: wgs-admin-page.php:183
+msgid "If this option is turned on, the search field will appear above the search results."
+msgstr "このオプションをオンにすると、検索欄を検索結果の上に表示します。"
+
+#: wgs-admin-page.php:168
+msgid "Enter this Google Search Engine ID here."
+msgstr "Google 検索エンジン ID をここに入力してください。"
+
+#: wgs-admin-page.php:167
+msgid "You will get a Google Search Engine ID like this: 012345678901234567890:0ijk_a1bcde"
+msgstr "次のようなGoogle検索エンジン ID を取得します: 012345678901234567890:0ijk_a1bcde"
+
+#: wgs-admin-page.php:166
+msgid "Register to Google Custom Search Engine and get your Google Search Engine ID here: "
+msgstr "Google カスタム検索エンジンに登録し、ここで Google 検索エンジン ID を取得してください:"
+
+#: wgs-admin-page.php:139
+msgid "WP Google Search by WebshopLogic"
+msgstr "WP Google Search by WebshopLogic"
+
+#: wgs-admin-page.php:89
+msgid "Use default corrections CSS version3"
+msgstr "CSS バージョン3 のデフォルト修正を使う"
+
+#: wgs-admin-page.php:81
+msgid "Use default corrections CSS version2"
+msgstr "CSS バージョン2 のデフォルト修正を使う"
+
+#: wgs-admin-page.php:73
+msgid "Use default corrections CSS"
+msgstr "CSS のデフォルト修正を使う"
+
+#: wgs-admin-page.php:65 wgs-admin-page.php:191
+msgid "Link Target Blank"
+msgstr "リンクターゲット _blank"
+
+#: wgs-admin-page.php:57 wgs-admin-page.php:206
+msgid "Support Overlay Display"
+msgstr "オーバーレイ表示対応"
+
+#: wgs-admin-page.php:49 wgs-admin-page.php:175
+msgid "Display search box before search results"
+msgstr "検索結果の前に検索ボックスを表示"
+
+#: wgs-admin-page.php:41 wgs-admin-page.php:159
+msgid "Google Search Engine ID"
+msgstr "Google 検索 Engine ID"
+
+#: wgs-admin-page.php:32 wgs-admin-page.php:151
+msgid "General Settings"
+msgstr "一般設定"
+
+#: wgs-widget.php:83
+msgid "Title"
+msgstr "タイトル"
+
+#: wgs-widget.php:81
+msgid "Hide title"
+msgstr "タイトルを非表示"
+
+#: wgs-widget.php:73
+msgid "Search"
+msgstr "検索"
+
+#: wgs-widget.php:7
+msgid "WP Google Search (WGS)"
+msgstr "WP Google Search (WGS)"
+
+#: wp-google-search.php:124 wp-google-search.php:128
+msgid "Search Results"
+msgstr "検索結果"
+
+#. Author URI of the plugin
+msgid "http://webshoplogic.com/"
+msgstr "http://webshoplogic.com/"
+
+#. Author of the plugin
+msgid "WebshopLogic"
+msgstr "WebshopLogic"
+
+#. Description of the plugin
+msgid "This plugin gives a very simple way to add Google Search to your WordPress site."
+msgstr "このプラグインは WordPress サイトに簡単に Google 検索を追加できる方法を提供します。"
+
+#. Plugin URI of the plugin
+msgid "http://webshoplogic.com/wp-google-search/"
+msgstr "http://webshoplogic.com/wp-google-search/"
+
+#. Plugin Name of the plugin
+#: wgs-admin-page.php:13
+msgid "WP Google Search"
+msgstr "WP Google Search"

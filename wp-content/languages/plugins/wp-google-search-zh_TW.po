@@ -1,0 +1,157 @@
+# Translation of Plugins - WP Google Search - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - WP Google Search - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-08 09:30:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - WP Google Search - Stable (latest release)\n"
+
+#: wgs-admin-page.php:317
+msgid "Would you like to offer some related products to your blog posts? Do you have an event calendar plugin, and want to suggest some programs connected to an article? Do you have a custom movie catalog plugin and want to associate some articles to your movies?"
+msgstr "想要為部落格文章提供些相關的產品嗎？是否想要一個能為文章提供相關規劃的活動行事曆外掛？想要有個能自訂電影目錄並將相關文章連結至這些電影的外掛嗎？"
+
+#: wgs-admin-page.php:316
+msgid "WP Related Items plugin makes visible every kind of hidden connections of your WordPress site for your business."
+msgstr "WP Related Items 外掛能為個人業務顯示隱藏於這個 WordPress 網站後的各種聯繫。"
+
+#: wgs-admin-page.php:309
+msgid "Try out WP Related Items plugin"
+msgstr "試試 WP Related Items 外掛"
+
+#: wgs-admin-page.php:281
+msgid "The plugin automatically generated a page for displaying search results. You can see here the URL of this page. Please do not delete this page and do not change the permalink of it!"
+msgstr "本外掛會自動產生顯示搜尋結果的頁面，該頁面網址列於上方欄位中，請勿刪除此頁面也不要變更它的永久連結！"
+
+#: wgs-admin-page.php:266
+msgid "Search Page Target URL"
+msgstr "搜尋頁面目標網址"
+
+#: wgs-admin-page.php:259
+msgid "Switch it on to move down search button some pixels."
+msgstr "啟用這個選項能將搜尋按鈕向下移動幾個像素。"
+
+#: wgs-admin-page.php:251
+msgid "Use default corrections CSS v3"
+msgstr "使用第三版預設修正用的 CSS"
+
+#: wgs-admin-page.php:244
+msgid "If this option is turned on, some css will be applied to improve the appearance of search elements. Styling of Google Search box is theme dependent because your theme settings have an effect on Google CSE styling too. It is possible that custom css settings are needed. Aks your site designer about it."
+msgstr "啟用這個選項後，屬於這個選項的 CSS 會為 WordPress 佈景主題的搜尋元素外觀進行改善。Google 搜尋框的外觀樣式與佈景主題相關，網站管理員對佈景主題的設定也會影響到 Google 自訂搜尋的樣式。網站管理員可以透過 CSS 自訂搜尋框樣式，如有需要可洽詢這個網站的網站設計師。"
+
+#: wgs-admin-page.php:236
+msgid "Use default corrections CSS v2"
+msgstr "使用第二版預設修正用的 CSS"
+
+#: wgs-admin-page.php:229
+msgid "DEPRECTED: If this option is turned on, some css will be applied to improve the appearance of search elements in case of most WordPress themes. This is an older css settings collection, please use the following CSS 2 setting instead of this."
+msgstr "<b>不建議使用</b>: 啟用這個選項後，屬於這個選項的 CSS 會為 WordPress 佈景主題的搜尋元素外觀進行改善。這個選項屬於舊版，請改用第二版 CSS 設定。"
+
+#: wgs-admin-page.php:221
+msgid "Use default corrections CSS v1"
+msgstr "使用第一版預設修正用的 CSS"
+
+#: wgs-admin-page.php:214
+msgid "If you set on Google CSE admin page that result set is displayed in Overlay mode, then also set this checkbox. </br>In this case search results will be displayed without loading a new search result page. </br>If you do not use overlay display mode in GCSE, then clear this checkbox, because result set can not be displayed correctly."
+msgstr "如果網站管理員在 Google 自訂搜尋管理頁面中，將搜尋結果設定以重疊模式顯示，請啟用這個選項。</br>如此一來，搜尋結果才會以重疊模式顯示而不必載入新的搜尋結果頁面。</br>如果網站管理員並未在 Google 自訂搜尋中使用重疊模式，請務必停用這個選項，否則搜尋結果會無法正常顯示。"
+
+#: wgs-admin-page.php:199
+msgid "Display content of the links of the result set on new browser tab."
+msgstr "在瀏覽器新分頁中顯示搜尋結果連結的內容。"
+
+#: wgs-admin-page.php:183
+msgid "If this option is turned on, the search field will appear above the search results."
+msgstr "啟用這選項能讓搜尋框顯示在搜尋結果上方。"
+
+#: wgs-admin-page.php:168
+msgid "Enter this Google Search Engine ID here."
+msgstr "取得後請在上方欄位中輸入 Google 搜尋引擎 ID。"
+
+#: wgs-admin-page.php:167
+msgid "You will get a Google Search Engine ID like this: 012345678901234567890:0ijk_a1bcde"
+msgstr "取得的 Google 搜尋引擎 ID 會類似「012345678901234567890:0ijk_a1bcde」。"
+
+#: wgs-admin-page.php:166
+msgid "Register to Google Custom Search Engine and get your Google Search Engine ID here: "
+msgstr "請透過本頁提供的網址註冊 Google 自訂搜尋並取得 Google 搜尋引擎 ID: "
+
+#: wgs-admin-page.php:139
+msgid "WP Google Search by WebshopLogic"
+msgstr "由 WebshopLogic 開發的 WP Google Search"
+
+#: wgs-admin-page.php:89
+msgid "Use default corrections CSS version3"
+msgstr "使用第三版預設修正用的 CSS"
+
+#: wgs-admin-page.php:81
+msgid "Use default corrections CSS version2"
+msgstr "使用第二版預設修正用的 CSS"
+
+#: wgs-admin-page.php:73
+msgid "Use default corrections CSS"
+msgstr "使用預設修正用的 CSS"
+
+#: wgs-admin-page.php:65 wgs-admin-page.php:191
+msgid "Link Target Blank"
+msgstr "在新分頁中開啟連結"
+
+#: wgs-admin-page.php:57 wgs-admin-page.php:206
+msgid "Support Overlay Display"
+msgstr "支援重疊顯示"
+
+#: wgs-admin-page.php:49 wgs-admin-page.php:175
+msgid "Display search box before search results"
+msgstr "在搜尋結果上方顯示搜尋框"
+
+#: wgs-admin-page.php:41 wgs-admin-page.php:159
+msgid "Google Search Engine ID"
+msgstr "Google 搜尋引擎 ID"
+
+#: wgs-admin-page.php:32 wgs-admin-page.php:151
+msgid "General Settings"
+msgstr "一般設定"
+
+#: wgs-widget.php:83
+msgid "Title"
+msgstr "文章標題"
+
+#: wgs-widget.php:81
+msgid "Hide title"
+msgstr "隱藏標題"
+
+#: wgs-widget.php:73
+msgid "Search"
+msgstr "搜尋"
+
+#: wgs-widget.php:7
+msgid "WP Google Search (WGS)"
+msgstr "WP Goosgle Search (WGS)"
+
+#: wp-google-search.php:124 wp-google-search.php:128
+msgid "Search Results"
+msgstr "搜尋結果"
+
+#. Author URI of the plugin
+msgid "http://webshoplogic.com/"
+msgstr "https://webshoplogic.com/"
+
+#. Author of the plugin
+msgid "WebshopLogic"
+msgstr "WebshopLogic"
+
+#. Description of the plugin
+msgid "This plugin gives a very simple way to add Google Search to your WordPress site."
+msgstr "這個外掛能讓網站管理員以簡易的方式將 Google 自訂搜尋整合至 WordPress 網站中。"
+
+#. Plugin URI of the plugin
+msgid "http://webshoplogic.com/wp-google-search/"
+msgstr "https://webshoplogic.com/wordpress-google-search-plugin-for-free/"
+
+#. Plugin Name of the plugin
+#: wgs-admin-page.php:13
+msgid "WP Google Search"
+msgstr "WP Google Search"
